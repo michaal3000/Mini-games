@@ -1,0 +1,13 @@
+h1 {
+  color: red;
+  font-weight: 500;
+  font-size: 36px;
+}
+
+#shape {
+  width: 200px;
+  height: 200px;
+  background-color: red;
+  display: none;
+  position: relative;
+}
